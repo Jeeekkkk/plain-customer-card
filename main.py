@@ -2,6 +2,7 @@ from fastapi import FastAPI, Request, HTTPException
 import json
 from pydantic import BaseModel
 
+# Define the shape of the incoming request using a Pydantic model
 class CustomerRequest(BaseModel):
     external_id: str
 
@@ -15,6 +16,7 @@ with open("customers_sample.json") as f:
 def read_root():
     return {"message": "Customer Card API is running"}
 
+# Endpoint to return formatted Customer Card to Plain
 @app.post("/customer_card")
 async def customer_card(payload: CustomerRequest):
     external_id = payload.external_id
@@ -24,6 +26,7 @@ async def customer_card(payload: CustomerRequest):
     
     customer = customer_data[external_id]
 
+# Return JSON structure matching Plain's expected Customer Card format
     return {
         "type": "card",
         "title": "Trackly Overview",
