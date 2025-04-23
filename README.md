@@ -15,3 +15,8 @@ Demonstration of a custom Customer Card integration for Plain.
 {
   "external_id": "1001"
 }
+```
+## Tech Stack
+- FastAPI
+- Python 3.10+
+- Render (deployment)
