@@ -1,0 +1,1202 @@
+{
+  "1001": {
+    "usage": 58,
+    "contract_value": 2841,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1002": {
+    "usage": 17,
+    "contract_value": 1140,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1003": {
+    "usage": 86,
+    "contract_value": 824,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1004": {
+    "usage": 57,
+    "contract_value": 1957,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1005": {
+    "usage": 98,
+    "contract_value": 1119,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1006": {
+    "usage": 52,
+    "contract_value": 998,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1007": {
+    "usage": 31,
+    "contract_value": 4899,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1008": {
+    "usage": 48,
+    "contract_value": 2686,
+    "team_name": "Marketing",
+    "role": "Editor"
+  },
+  "1009": {
+    "usage": 19,
+    "contract_value": 4872,
+    "team_name": "Ops",
+    "role": "Viewer"
+  },
+  "1010": {
+    "usage": 100,
+    "contract_value": 3507,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1011": {
+    "usage": 52,
+    "contract_value": 1210,
+    "team_name": "Sales",
+    "role": "Admin"
+  },
+  "1012": {
+    "usage": 96,
+    "contract_value": 4504,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1013": {
+    "usage": 29,
+    "contract_value": 1658,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1014": {
+    "usage": 100,
+    "contract_value": 3200,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1015": {
+    "usage": 16,
+    "contract_value": 3016,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1016": {
+    "usage": 41,
+    "contract_value": 1671,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1017": {
+    "usage": 13,
+    "contract_value": 4502,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1018": {
+    "usage": 26,
+    "contract_value": 569,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1019": {
+    "usage": 52,
+    "contract_value": 3896,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1020": {
+    "usage": 95,
+    "contract_value": 4651,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1021": {
+    "usage": 46,
+    "contract_value": 747,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1022": {
+    "usage": 74,
+    "contract_value": 2248,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1023": {
+    "usage": 95,
+    "contract_value": 3099,
+    "team_name": "Marketing",
+    "role": "Editor"
+  },
+  "1024": {
+    "usage": 21,
+    "contract_value": 2868,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1025": {
+    "usage": 60,
+    "contract_value": 4950,
+    "team_name": "Ops",
+    "role": "Admin"
+  },
+  "1026": {
+    "usage": 46,
+    "contract_value": 926,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1027": {
+    "usage": 26,
+    "contract_value": 866,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1028": {
+    "usage": 95,
+    "contract_value": 4877,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1029": {
+    "usage": 39,
+    "contract_value": 4604,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1030": {
+    "usage": 86,
+    "contract_value": 784,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1031": {
+    "usage": 58,
+    "contract_value": 1711,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1032": {
+    "usage": 78,
+    "contract_value": 3873,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1033": {
+    "usage": 100,
+    "contract_value": 3008,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1034": {
+    "usage": 98,
+    "contract_value": 2654,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1035": {
+    "usage": 37,
+    "contract_value": 623,
+    "team_name": "Sales",
+    "role": "Admin"
+  },
+  "1036": {
+    "usage": 82,
+    "contract_value": 3911,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1037": {
+    "usage": 94,
+    "contract_value": 3123,
+    "team_name": "Ops",
+    "role": "Admin"
+  },
+  "1038": {
+    "usage": 23,
+    "contract_value": 2462,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1039": {
+    "usage": 61,
+    "contract_value": 3387,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1040": {
+    "usage": 16,
+    "contract_value": 1290,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1041": {
+    "usage": 64,
+    "contract_value": 1980,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1042": {
+    "usage": 27,
+    "contract_value": 4808,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1043": {
+    "usage": 97,
+    "contract_value": 4925,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1044": {
+    "usage": 43,
+    "contract_value": 2592,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1045": {
+    "usage": 31,
+    "contract_value": 4811,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1046": {
+    "usage": 36,
+    "contract_value": 4541,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1047": {
+    "usage": 65,
+    "contract_value": 1122,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1048": {
+    "usage": 50,
+    "contract_value": 3529,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1049": {
+    "usage": 32,
+    "contract_value": 4188,
+    "team_name": "Ops",
+    "role": "Admin"
+  },
+  "1050": {
+    "usage": 14,
+    "contract_value": 2558,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1051": {
+    "usage": 97,
+    "contract_value": 2249,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1052": {
+    "usage": 37,
+    "contract_value": 1536,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1053": {
+    "usage": 44,
+    "contract_value": 1736,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1054": {
+    "usage": 57,
+    "contract_value": 2824,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1055": {
+    "usage": 20,
+    "contract_value": 1995,
+    "team_name": "Ops",
+    "role": "Viewer"
+  },
+  "1056": {
+    "usage": 48,
+    "contract_value": 4197,
+    "team_name": "Marketing",
+    "role": "Editor"
+  },
+  "1057": {
+    "usage": 92,
+    "contract_value": 587,
+    "team_name": "Sales",
+    "role": "Admin"
+  },
+  "1058": {
+    "usage": 78,
+    "contract_value": 611,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1059": {
+    "usage": 62,
+    "contract_value": 935,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1060": {
+    "usage": 20,
+    "contract_value": 4771,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1061": {
+    "usage": 86,
+    "contract_value": 4898,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1062": {
+    "usage": 66,
+    "contract_value": 4455,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1063": {
+    "usage": 53,
+    "contract_value": 982,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1064": {
+    "usage": 28,
+    "contract_value": 4938,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1065": {
+    "usage": 87,
+    "contract_value": 4004,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1066": {
+    "usage": 71,
+    "contract_value": 1691,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1067": {
+    "usage": 55,
+    "contract_value": 3072,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1068": {
+    "usage": 50,
+    "contract_value": 2419,
+    "team_name": "Ops",
+    "role": "Admin"
+  },
+  "1069": {
+    "usage": 91,
+    "contract_value": 1230,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1070": {
+    "usage": 60,
+    "contract_value": 695,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1071": {
+    "usage": 50,
+    "contract_value": 4955,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1072": {
+    "usage": 85,
+    "contract_value": 4691,
+    "team_name": "Ops",
+    "role": "Viewer"
+  },
+  "1073": {
+    "usage": 58,
+    "contract_value": 2828,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1074": {
+    "usage": 31,
+    "contract_value": 4900,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1075": {
+    "usage": 65,
+    "contract_value": 1689,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1076": {
+    "usage": 95,
+    "contract_value": 2811,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1077": {
+    "usage": 85,
+    "contract_value": 2549,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1078": {
+    "usage": 100,
+    "contract_value": 3698,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1079": {
+    "usage": 55,
+    "contract_value": 2775,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1080": {
+    "usage": 12,
+    "contract_value": 4263,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1081": {
+    "usage": 90,
+    "contract_value": 1157,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1082": {
+    "usage": 92,
+    "contract_value": 1741,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1083": {
+    "usage": 72,
+    "contract_value": 1564,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1084": {
+    "usage": 38,
+    "contract_value": 4837,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1085": {
+    "usage": 88,
+    "contract_value": 2478,
+    "team_name": "Ops",
+    "role": "Admin"
+  },
+  "1086": {
+    "usage": 73,
+    "contract_value": 3156,
+    "team_name": "Marketing",
+    "role": "Editor"
+  },
+  "1087": {
+    "usage": 97,
+    "contract_value": 2470,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1088": {
+    "usage": 68,
+    "contract_value": 4449,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1089": {
+    "usage": 67,
+    "contract_value": 1204,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1090": {
+    "usage": 26,
+    "contract_value": 1836,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1091": {
+    "usage": 24,
+    "contract_value": 4990,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1092": {
+    "usage": 72,
+    "contract_value": 1137,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1093": {
+    "usage": 85,
+    "contract_value": 3052,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1094": {
+    "usage": 29,
+    "contract_value": 2641,
+    "team_name": "Sales",
+    "role": "Admin"
+  },
+  "1095": {
+    "usage": 58,
+    "contract_value": 2543,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1096": {
+    "usage": 81,
+    "contract_value": 878,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1097": {
+    "usage": 53,
+    "contract_value": 1859,
+    "team_name": "Marketing",
+    "role": "Editor"
+  },
+  "1098": {
+    "usage": 46,
+    "contract_value": 1288,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1099": {
+    "usage": 88,
+    "contract_value": 3377,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1100": {
+    "usage": 82,
+    "contract_value": 3868,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1101": {
+    "usage": 47,
+    "contract_value": 2792,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1102": {
+    "usage": 27,
+    "contract_value": 2544,
+    "team_name": "Ops",
+    "role": "Viewer"
+  },
+  "1103": {
+    "usage": 80,
+    "contract_value": 3357,
+    "team_name": "Ops",
+    "role": "Viewer"
+  },
+  "1104": {
+    "usage": 100,
+    "contract_value": 3473,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1105": {
+    "usage": 44,
+    "contract_value": 3726,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1106": {
+    "usage": 80,
+    "contract_value": 2243,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1107": {
+    "usage": 41,
+    "contract_value": 4038,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1108": {
+    "usage": 84,
+    "contract_value": 3667,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1109": {
+    "usage": 94,
+    "contract_value": 797,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1110": {
+    "usage": 60,
+    "contract_value": 3457,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1111": {
+    "usage": 77,
+    "contract_value": 3630,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1112": {
+    "usage": 17,
+    "contract_value": 2552,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1113": {
+    "usage": 88,
+    "contract_value": 1913,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1114": {
+    "usage": 90,
+    "contract_value": 532,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1115": {
+    "usage": 84,
+    "contract_value": 4584,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1116": {
+    "usage": 28,
+    "contract_value": 4240,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1117": {
+    "usage": 90,
+    "contract_value": 4659,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1118": {
+    "usage": 71,
+    "contract_value": 3679,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1119": {
+    "usage": 47,
+    "contract_value": 2413,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1120": {
+    "usage": 70,
+    "contract_value": 3764,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1121": {
+    "usage": 79,
+    "contract_value": 2748,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1122": {
+    "usage": 55,
+    "contract_value": 3205,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1123": {
+    "usage": 38,
+    "contract_value": 3733,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1124": {
+    "usage": 81,
+    "contract_value": 4148,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1125": {
+    "usage": 38,
+    "contract_value": 1888,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1126": {
+    "usage": 40,
+    "contract_value": 1899,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1127": {
+    "usage": 83,
+    "contract_value": 1894,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1128": {
+    "usage": 47,
+    "contract_value": 3711,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1129": {
+    "usage": 83,
+    "contract_value": 3409,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1130": {
+    "usage": 26,
+    "contract_value": 3749,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1131": {
+    "usage": 81,
+    "contract_value": 973,
+    "team_name": "Finance",
+    "role": "Editor"
+  },
+  "1132": {
+    "usage": 86,
+    "contract_value": 2621,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1133": {
+    "usage": 71,
+    "contract_value": 2269,
+    "team_name": "Ops",
+    "role": "Admin"
+  },
+  "1134": {
+    "usage": 12,
+    "contract_value": 3309,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1135": {
+    "usage": 61,
+    "contract_value": 3633,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1136": {
+    "usage": 30,
+    "contract_value": 971,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1137": {
+    "usage": 12,
+    "contract_value": 2926,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1138": {
+    "usage": 33,
+    "contract_value": 1919,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1139": {
+    "usage": 73,
+    "contract_value": 4488,
+    "team_name": "Ops",
+    "role": "Admin"
+  },
+  "1140": {
+    "usage": 98,
+    "contract_value": 4702,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1141": {
+    "usage": 59,
+    "contract_value": 3448,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1142": {
+    "usage": 46,
+    "contract_value": 1358,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1143": {
+    "usage": 71,
+    "contract_value": 1387,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1144": {
+    "usage": 54,
+    "contract_value": 3655,
+    "team_name": "Sales",
+    "role": "Admin"
+  },
+  "1145": {
+    "usage": 83,
+    "contract_value": 1247,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1146": {
+    "usage": 33,
+    "contract_value": 1097,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1147": {
+    "usage": 83,
+    "contract_value": 4531,
+    "team_name": "Sales",
+    "role": "Admin"
+  },
+  "1148": {
+    "usage": 91,
+    "contract_value": 2188,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1149": {
+    "usage": 13,
+    "contract_value": 511,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1150": {
+    "usage": 97,
+    "contract_value": 3132,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1151": {
+    "usage": 24,
+    "contract_value": 1763,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1152": {
+    "usage": 52,
+    "contract_value": 3092,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1153": {
+    "usage": 77,
+    "contract_value": 861,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1154": {
+    "usage": 100,
+    "contract_value": 752,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1155": {
+    "usage": 51,
+    "contract_value": 2466,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1156": {
+    "usage": 27,
+    "contract_value": 3881,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1157": {
+    "usage": 34,
+    "contract_value": 2011,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1158": {
+    "usage": 46,
+    "contract_value": 2962,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1159": {
+    "usage": 77,
+    "contract_value": 4658,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1160": {
+    "usage": 67,
+    "contract_value": 1351,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1161": {
+    "usage": 30,
+    "contract_value": 4490,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1162": {
+    "usage": 43,
+    "contract_value": 4010,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1163": {
+    "usage": 28,
+    "contract_value": 4616,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1164": {
+    "usage": 12,
+    "contract_value": 3046,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1165": {
+    "usage": 47,
+    "contract_value": 4902,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1166": {
+    "usage": 90,
+    "contract_value": 4950,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1167": {
+    "usage": 28,
+    "contract_value": 4717,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1168": {
+    "usage": 79,
+    "contract_value": 1211,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1169": {
+    "usage": 18,
+    "contract_value": 4738,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1170": {
+    "usage": 43,
+    "contract_value": 1271,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1171": {
+    "usage": 99,
+    "contract_value": 2062,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1172": {
+    "usage": 49,
+    "contract_value": 1129,
+    "team_name": "Sales",
+    "role": "Admin"
+  },
+  "1173": {
+    "usage": 62,
+    "contract_value": 3267,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1174": {
+    "usage": 41,
+    "contract_value": 505,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1175": {
+    "usage": 72,
+    "contract_value": 3929,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1176": {
+    "usage": 48,
+    "contract_value": 4683,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1177": {
+    "usage": 77,
+    "contract_value": 3903,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1178": {
+    "usage": 40,
+    "contract_value": 3209,
+    "team_name": "Finance",
+    "role": "Viewer"
+  },
+  "1179": {
+    "usage": 53,
+    "contract_value": 1053,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1180": {
+    "usage": 80,
+    "contract_value": 3281,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1181": {
+    "usage": 20,
+    "contract_value": 2687,
+    "team_name": "Sales",
+    "role": "Editor"
+  },
+  "1182": {
+    "usage": 58,
+    "contract_value": 894,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1183": {
+    "usage": 12,
+    "contract_value": 3884,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1184": {
+    "usage": 93,
+    "contract_value": 1612,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1185": {
+    "usage": 73,
+    "contract_value": 3724,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1186": {
+    "usage": 44,
+    "contract_value": 4887,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1187": {
+    "usage": 36,
+    "contract_value": 2207,
+    "team_name": "Growth",
+    "role": "Editor"
+  },
+  "1188": {
+    "usage": 37,
+    "contract_value": 1242,
+    "team_name": "Marketing",
+    "role": "Editor"
+  },
+  "1189": {
+    "usage": 75,
+    "contract_value": 2675,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1190": {
+    "usage": 83,
+    "contract_value": 1449,
+    "team_name": "Growth",
+    "role": "Admin"
+  },
+  "1191": {
+    "usage": 34,
+    "contract_value": 2474,
+    "team_name": "Sales",
+    "role": "Admin"
+  },
+  "1192": {
+    "usage": 98,
+    "contract_value": 3352,
+    "team_name": "Sales",
+    "role": "Viewer"
+  },
+  "1193": {
+    "usage": 45,
+    "contract_value": 1338,
+    "team_name": "Marketing",
+    "role": "Editor"
+  },
+  "1194": {
+    "usage": 17,
+    "contract_value": 2976,
+    "team_name": "Ops",
+    "role": "Editor"
+  },
+  "1195": {
+    "usage": 34,
+    "contract_value": 1109,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1196": {
+    "usage": 97,
+    "contract_value": 2178,
+    "team_name": "Marketing",
+    "role": "Admin"
+  },
+  "1197": {
+    "usage": 79,
+    "contract_value": 3222,
+    "team_name": "Finance",
+    "role": "Admin"
+  },
+  "1198": {
+    "usage": 65,
+    "contract_value": 1428,
+    "team_name": "Marketing",
+    "role": "Viewer"
+  },
+  "1199": {
+    "usage": 100,
+    "contract_value": 4525,
+    "team_name": "Growth",
+    "role": "Viewer"
+  },
+  "1200": {
+    "usage": 59,
+    "contract_value": 5000,
+    "team_name": "Finance",
+    "role": "Editor"
+  }
+}
