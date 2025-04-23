@@ -1,5 +1,9 @@
 from fastapi import FastAPI, Request, HTTPException
 import json
+from pydantic import BaseModel
+
+class CustomerRequest(BaseModel):
+    external_id: str
 
 app = FastAPI()
 
@@ -7,10 +11,13 @@ app = FastAPI()
 with open("customers_sample.json") as f:
     customer_data = json.load(f)
 
+@app.get("/")
+def read_root():
+    return {"message": "Customer Card API is running"}
+
 @app.post("/customer_card")
-async def customer_card(request: Request):
-    payload = await request.json()
-    external_id = payload.get("external_id")
+async def customer_card(payload: CustomerRequest):
+    external_id = payload.external_id
 
     if not external_id or external_id not in customer_data:
         raise HTTPException(status_code=404, detail="Customer not found")
