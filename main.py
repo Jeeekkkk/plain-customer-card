@@ -18,8 +18,12 @@ def read_root():
 
 # Endpoint to return formatted Customer Card to Plain
 @app.post("/customer_card")
-async def customer_card(payload: CustomerRequest):
-    external_id = payload.external_id
+async def customer_card(request: Request):
+    try:
+        payload = await request.json()
+        external_id = payload.get("customer", {}).get("externalId")
+    except Exception:
+        raise HTTPException(status_code=400, detail="Invalid payload format")
 
     if not external_id or external_id not in customer_data:
         raise HTTPException(status_code=404, detail="Customer not found")
