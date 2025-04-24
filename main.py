@@ -1,10 +1,5 @@
 from fastapi import FastAPI, Request, HTTPException
 import json
-from pydantic import BaseModel
-
-# Define the shape of the incoming request using a Pydantic model
-class CustomerRequest(BaseModel):
-    external_id: str
 
 app = FastAPI()
 
@@ -22,32 +17,52 @@ async def customer_card(request: Request):
     try:
         payload = await request.json()
         external_id = payload.get("customer", {}).get("externalId")
+        email = payload.get("customer", {}).get("email")
     except Exception:
         raise HTTPException(status_code=400, detail="Invalid payload format")
 
-    if not external_id or external_id not in customer_data:
+    # Find customer by external_id or by email
+    customer = None
+    if external_id and external_id in customer_data:
+        customer = customer_data[external_id]
+    else:
+        # fallback to email lookup
+        for record in customer_data.values():
+            if record.get("email") == email:
+                customer = record
+                break
+
+    if not customer:
         raise HTTPException(status_code=404, detail="Customer not found")
-    
-    customer = customer_data[external_id]
 
-    print("Success: Reached /customer_card")
-
-# Return JSON structure matching Plain's expected Customer Card format
+# Return JSON structure matching expected Customer Card format
     return {
-        "type": "card",
-        "title": "Trackly Overview",
-        "body": [
-            {"type": "label", "label": "Monthly Usage", "value": f"{customer['usage']} events"},
-            {"type": "label", "label": "Contract Value", "value": f"${customer['contract_value']}"},
-            {"type": "label", "label": "Team", "value": customer['team_name']},
-            {"type": "label", "label": "Role", "value": customer['role']},
+        "cards": [
             {
-                "type": "button",
-                "label": "Edit in Trackly",
-                "action": {
-                    "type": "url",
-                    "url": f"https://trackly.example.com/edit?id={external_id}"
-                }
+                "key": "trackly-insights", 
+                "timeToLiveSeconds": 86400,
+                "components": [
+                    {
+                        "componentText": {
+                            "text": f"Monthly Usage: {customer['usage']} events"
+                        }
+                    },
+                    {
+                        "componentText": {
+                            "text": f"Contract Value: ${customer['contract_value']}"
+                        }
+                    },
+                    {
+                        "componentText": {
+                            "text": f"Team: {customer['team_name']}"
+                        }
+                    },
+                    {
+                        "componentText": {
+                            "text": f"Role: {customer['role']}"
+                        }
+                    }
+                ]
             }
         ]
     }
