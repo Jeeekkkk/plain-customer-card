@@ -30,7 +30,7 @@ async def customer_card(request: Request):
     
     customer = customer_data[external_id]
 
-print("Success: Reached /customer_card")
+    print("Success: Reached /customer_card")
 
 # Return JSON structure matching Plain's expected Customer Card format
     return {
