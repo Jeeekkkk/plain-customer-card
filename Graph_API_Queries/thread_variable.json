@@ -1,0 +1,16 @@
+{
+    "input": {
+      "title": "Test Thread for Customer Card - Testing Customer Card",
+      "customerIdentifier": {
+        "externalId": "1001"
+      },
+      "components": [
+        {
+          "componentText": {
+            "text": "Inquiry for customer 1001.\n\nCustomer details that the card should display\nUsage: 17 events\nContract: $1140/month\nRole: Editor\nTeam: Ops"
+          }
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,16 @@
+mutation createThread($input: CreateThreadInput!) {
+  createThread(input: $input) {
+    thread {
+      id
+      title
+      customer {
+        id
+        externalId
+      }
+    }
+    error {
+      message
+      type
+    }
+  }
+}

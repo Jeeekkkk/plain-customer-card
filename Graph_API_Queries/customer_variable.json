@@ -1,0 +1,21 @@
+{
+    "input": {
+      "identifier": {
+        "emailAddress": "customer1002@example.com"
+      },
+      "onUpdate": {
+        "externalId": {
+          "value": "1002"
+        }
+      },
+      "onCreate": {
+        "fullName": "Demo Customer 1002",
+        "shortName": "Demo1002",
+        "email": {
+          "email": "customer1002@example.com",
+          "isVerified": true
+        }
+      }
+    }
+  }
+  

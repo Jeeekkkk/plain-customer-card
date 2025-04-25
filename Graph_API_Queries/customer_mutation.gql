@@ -1,0 +1,13 @@
+mutation upsertCustomer($input: UpsertCustomerInput!) {
+  upsertCustomer(input: $input) {
+    customer {
+      id
+      externalId
+      fullName
+    }
+    error {
+      message
+      type
+    }
+  }
+}
