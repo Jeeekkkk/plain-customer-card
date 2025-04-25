@@ -52,6 +52,11 @@ async def customer_card(request: Request):
                             "text": f"Contract Value: ${customer['contract_value']}"
                         }
                     },
+                                        {
+                        "componentText": {
+                            "text": f"Customer ID: {external_id or 'unknown'}"
+                        }
+                    },
                     {
                         "componentText": {
                             "text": f"Team: {customer['team_name']}"
@@ -60,6 +65,11 @@ async def customer_card(request: Request):
                     {
                         "componentText": {
                             "text": f"Role: {customer['role']}"
+                        }
+                    },
+                    {
+                        "componentText": {
+                            "text": f"[Edit in Trackly](https://trackly.example.com/edit?id={external_id or 'unknown'})"
                         }
                     }
                 ]
